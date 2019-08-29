@@ -1,4 +1,4 @@
-# Julia Burroughs is freakin cool
+# Julia Burroughs's First CS 193 Homework
 Things I like about CS 193:
 - it is taught by people my age (I'm a junior please be my friends)
 - I know a lot of this stuff but its a great refresher especially because I haven't seen it in a while
